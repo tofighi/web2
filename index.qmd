@@ -19,7 +19,7 @@ resources:
 ::: {.content-block}
 
 ::: {.hero-text}
-# Welcome to Ghassem Tofighi's Homepage
+# Welcome to Ghassem's Homepage
 
 ### Computer Science Courses
 
