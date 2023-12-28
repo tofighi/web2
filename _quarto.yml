@@ -53,8 +53,8 @@ website:
         aria-label: Quarto Blog RSS        
   navbar:
     background: light
-    logo: quarto.png
-    logo-alt: "Quarto logo."
+    logo: logo-gt.png
+    logo-alt: "Ghassem Tofighi's logo."
     title: false
     collapse-below: lg
     left:
