@@ -19,9 +19,9 @@ resources:
 ::: {.content-block}
 
 ::: {.hero-text}
-# Welcome to Quarto^[®]{.trademark}^ {.mt-1}
+# Welcome to Ghassem Tofighi's Homepage
 
-### An open-source scientific and technical publishing system
+### Computer Science Courses
 
 - Author using [Jupyter](https://jupyter.org) notebooks or with plain text markdown in your favorite editor.
 - Create dynamic content with [Python](docs/computations/python.qmd), [R](docs/computations/r.qmd), [Julia](docs/computations/julia.qmd), and [Observable](docs/computations/ojs.qmd).
