@@ -1,14 +1,14 @@
 ---
-pagetitle: "Ghassem Tofighi's Homepage"
+pagetitle: "Ghassem Tofighi's Courses"
 page-layout: custom
 section-divs: false
 toc: false
 css: index.css
 editor: source
 description: | 
-  An open source technical publishing system for creating beautiful articles, websites, blogs, books, slides, and more. Supports Python, R, Julia, and JavaScript.
+  Ghassem Tofighi's Courses
 hide-description: true
-image: quarto-dark-bg.jpeg
+image: dark-back.jpeg
 resources: 
   - images/hero_animation.mp4
 ---
@@ -19,12 +19,11 @@ resources:
 ::: {.content-block}
 
 ::: {.hero-text}
-# Welcome to Ghassem's Homepage
+# Welcome to Ghassem's Courses
 
 ### Computer Science Courses
 
 - Author using [Jupyter](https://jupyter.org) notebooks or with plain text markdown in your favorite editor.
-- Create dynamic content with [Python](docs/computations/python.qmd), [R](docs/computations/r.qmd), [Julia](docs/computations/julia.qmd), and [Observable](docs/computations/ojs.qmd).
 
 ### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
 
