@@ -25,6 +25,20 @@ The lesson concludes with an introduction to calculus, focusing on derivatives a
 - Calculus
   - Derivatives and Infinitesimals
 
+## Introduction
+
+ML is rapidly evolving, with new paradigms emerging that are reshaping how these algorithms are developed, trained, and deployed. In particular, the area of embedded machine learning is experiencing significant innovation, driven by the proliferation of smart sensors, edge devices, and microcontrollers. This chapter explores the landscape of embedded machine learning, covering the key approaches of Cloud ML, Edge ML, and TinyML (@fig-cloud-edge-tinyml-comparison).
+
+![Cloud vs. Edge vs. TinyML: The Spectrum of Distributed Intelligence](images/book.png){#fig-cloud-edge-tinyml-comparison}
+
+We begin by outlining the features or characteristics, benefits, challenges, and use cases for each embedded ML variant. This provides context on where these technologies do well and where they face limitations. We then bring all three approaches together into a comparative analysis, evaluating them across critical parameters like latency, privacy, computational demands, and more. This side-by-side perspective highlights the unique strengths and tradeoffs involved in selecting among these strategies.
+
+Next, we trace the evolution timeline of embedded systems and machine learning, from the origins of wireless sensor networks to the integration of ML algorithms into microcontrollers. This historical lens enriches our understanding of the rapid pace of advancement in this domain. Finally, practical hands-on exercises offer an opportunity to experiment first-hand with embedded computer vision applications.
+
+By the end of this multipronged exploration of embedded ML, you will possess the conceptual and practical knowledge to determine the appropriate ML implementation for your specific use case constraints. The chapter aims to equip you with the contextual clarity and technical skills to navigate this quickly shifting landscape, empowering impactful innovations.
+
+## Cloud ML
+
 ## Video
 
 <iframe width="514" height="289" src="https://www.youtube-nocookie.com/embed/_xIzPbCgutY?modestbranding=1" title="fast.ai lesson 12" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
