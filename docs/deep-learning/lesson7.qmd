@@ -4,7 +4,7 @@ title: "7: Collaborative filtering"
 
 ::: {layout="[30,70]"}
 
-![](../images/teddy_net.png)
+![](images/teddy_net.png)
 
 You interact nearly every day with *recommendation systems*---algorithms which guess what products and services you might like, based on your past behavior. These systems largely rely on *collaborative-filtering*, an approach based on linear algebra that fills in the missing values in a matrix. Today we'll see two ways to do this: one based on a classic linear algebra formulation, and one based on deep learning.
 

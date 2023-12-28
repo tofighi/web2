@@ -4,9 +4,9 @@ title: "4: Natural Language (NLP)"
 
 ::: {layout="[30,70]"}
 
-![](../images/cute_bunny.png)
+![](images/cute_bunny.png)
 
-It's time for us to learn how to analyse natural language documents, using Natural Language Processing (NLP). We'll be focusing on the [Hugging Face](https://huggingface.co/) ecosystem, especially the [Transformers](https://huggingface.co/docs/transformers/index) library, and the vast collection of pretrained [NLP models](https://huggingface.co/models). Our project today will be to classify that similarity of phrases used to describe [US patents](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching). A similar approach can be applied to a wide variety of practical issues, in fields as wide-reaching as marketing, logistics, and medicine.
+It's time for us to learn how to analyze natural language documents, using Natural Language Processing (NLP). We'll be focusing on the [Hugging Face](https://huggingface.co/) ecosystem, especially the [Transformers](https://huggingface.co/docs/transformers/index) library, and the vast collection of pretrained [NLP models](https://huggingface.co/models). Our project today will be to classify that similarity of phrases used to describe [US patents](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching). A similar approach can be applied to a wide variety of practical issues, in fields as wide-reaching as marketing, logistics, and medicine.
 
 :::
 

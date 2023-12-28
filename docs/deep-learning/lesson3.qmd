@@ -4,7 +4,7 @@ title: "3: Neural net foundations"
 
 ::: {layout="[30,70]"}
 
-![](../images/bear_sunnies2.png)
+![](images/bear_sunnies2.png)
 
 Today we'll be learning about the mathematical foundations of deep learning: *Stochastic gradient descent* (SGD), and the flexibility of linear functions layered with non-linear activation functions. We'll be focussing particularly on a popular combination called the *Rectified linear function* (ReLU).
 

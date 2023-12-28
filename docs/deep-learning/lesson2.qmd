@@ -4,7 +4,7 @@ title: "2: Deployment"
 
 ::: {layout="[30,70]"}
 
-![](../images/excited_code3.png)
+![](images/excited_code3.png)
 
 Today you'll be designing your own machine learning project, creating your own dataset, training a model using your data, and finally deploying an application on the web. We'll be using a particular deployment target called [Hugging Face Space](https://huggingface.co/spaces) with [Gradio](https://gradio.app/), and will also see how to use JavaScript to implement an interface in the browser. Deploying to other services will look very similar to the approach you'll study in this lesson.
 

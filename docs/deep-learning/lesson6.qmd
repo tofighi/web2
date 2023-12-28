@@ -4,7 +4,7 @@ title: "6: Random forests"
 
 ::: {layout="[30,70]"}
 
-![](../images/forest.png)
+![](images/forest.png)
 
 Random forests started a revolution in machine learning 20 years ago. For the first time, there was a fast and reliable algorithm which made almost no assumptions about the form of the data, and required almost no preprocessing. In today's lesson, you'll learn how a random forest really works, and how to build one from scratch. And, just as importantly, you'll learn how to interpret random forests to better understand your data.
 

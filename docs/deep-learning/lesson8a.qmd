@@ -4,7 +4,7 @@ title: "Bonus: Data ethics"
 
 ::: {layout="[30,70]"}
 
-![](../images/scales.png)
+![](images/scales.png)
 
 Because deep learning is such a powerful tool and can be used for so many things, it becomes particularly important that we consider the consequences of our choices. The philosophical study of ethics is the study of right and wrong, including how we can define those terms, recognize right and wrong actions, and understand the connection between actions and consequences.
 

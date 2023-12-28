@@ -7,7 +7,7 @@ comments:
 
 ::: {layout="[30,70]"}
 
-![](../images/bunny_net.png)
+![](images/bunny_net.png)
 
 In this lesson you're going to hit the ground running -- in the first five minutes you'll see a complete end to end example of training and using a model that's so advanced it was considered at the cutting edge of research capabilities in 2015.<br/><br/>So, let's get started!
 

@@ -4,7 +4,7 @@ title: "5: From-scratch model"
 
 ::: {layout="[30,70]"}
 
-![](../images/bear_sunnies.png)
+![](images/bear_sunnies.png)
 
 Today we look at how to create a neural network from scratch using Python and PyTorch, and how to implement a training loop for optimising the weights of a model. We build up from a single layer regression model up to a neural net with one hidden layer, and then to a deep learning model. Along the way we'll also look at how we can use a special function called *sigmoid* to make binary classification models easier to train, and we'll also learn about *metrics*.
 
