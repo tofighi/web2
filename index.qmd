@@ -23,7 +23,7 @@ resources:
 
 ### Computer Science Courses
 
-- Author using [Jupyter](https://jupyter.org) notebooks or with plain text markdown in your favorite editor.
+- Access [Ghassem Tofighi](https://ghassem.com) courses.
 
 ### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
 
