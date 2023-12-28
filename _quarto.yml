@@ -10,7 +10,7 @@ website:
   title: "Quarto"
   image: "quarto-dark-bg.jpeg"
   favicon: "favicon.png"
-  google-analytics: "G-aaaa"
+  google-analytics: "G-aaaaa"
   open-graph: true
   twitter-card: true
   site-url: https://quarto.org
