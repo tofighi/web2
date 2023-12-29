@@ -337,3 +337,7 @@ iframe.reveal-demo {
 .illustration {
   border: 1px solid #dee2e6;
 }
+
+.sidebar nav[role=doc-toc] ul>li>a.active, div.sidebar-item-container .active {
+  font-weight: bold;
+}
