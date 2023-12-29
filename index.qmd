@@ -21,10 +21,6 @@ resources:
 ::: {.hero-text}
 # Welcome to Ghassem's Courses
 
-
-{{< include _course-chooser.qmd >}}
-
-
 ### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
 
 ::: {.hero-buttons}
@@ -39,6 +35,8 @@ resources:
 <source src="images/hero_animation.mp4" type="video/mp4"/>
 </video>
 :::
+
+{{< include _course-chooser.qmd >}}
 
 :::
 
