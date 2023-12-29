@@ -23,4 +23,5 @@
 <a href="hello/text-editor.html" role="button" class="btn btn-outline-light">
 ![](docs/get-started/images/text-editor-logo.png){width="77" fig-alt="Text Editor logo: a circle with white outline and black fill inside of which is a command-line prompt."}Text Editor
 </a>
+:::
 
