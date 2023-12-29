@@ -1,5 +1,5 @@
 
-::: {.tool .g-col-lg-9 .g-col-12}
+::: {.course .g-col-lg-9 .g-col-12}
 
 
 <a href="hello/vscode.html" role="button" class="btn btn-outline-light">
