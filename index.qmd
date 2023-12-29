@@ -15,13 +15,12 @@ resources:
 
 ::: {.hero-banner}
 
-
 ::: {.content-block}
 
 ::: {.hero-text}
 # Welcome to Ghassem's Courses
 
-### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
+{{< include _course-chooser.qmd >}}
 
 ::: {.hero-buttons}
 [Get Started](docs/get-started/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
@@ -306,5 +305,4 @@ Publish collections of documents as a blog or full website. Create books and man
 :::
 :::
 
-{{< include _course-chooser.qmd >}}
 
