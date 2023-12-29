@@ -1,4 +1,3 @@
-:::
 
 ::: {.tool .g-col-lg-9 .g-col-12}
 
@@ -25,5 +24,3 @@
 ![](docs/get-started/images/text-editor-logo.png){width="77" fig-alt="Text Editor logo: a circle with white outline and black fill inside of which is a command-line prompt."}Text Editor
 </a>
 
-:::
-:::
