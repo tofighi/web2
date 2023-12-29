@@ -26,7 +26,7 @@ website:
   page-footer:
     left: |
       Proudly supported by
-      [![](https://sinamedialab.com/assets/img/logo@2x.png){fig-alt="Sina Media Lab" width=65px}](https://sinamedialab.com)
+      [![](https://sinamedialab.com/assets/img/logo@2x-black.png){fig-alt="Sina Media Lab" width=65px}](https://sinamedialab.com)
     center:
       - text: "About"
         href: about.qmd
