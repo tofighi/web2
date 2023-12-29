@@ -275,9 +275,7 @@ nav.page-navigation {
   background-color: #ff7518;
 }
 
-.sidebar nav[role=doc-toc] ul>li>a.active, div.sidebar-item-container .active {
-  font-weight: bold;
-}
+
 
 .course {
   display: flex;
