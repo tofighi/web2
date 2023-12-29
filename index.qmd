@@ -21,9 +21,8 @@ resources:
 ::: {.hero-text}
 # Welcome to Ghassem's Courses
 
-### Computer Science Courses
+{{< include _course-chooser.md >}}
 
-- Access [Ghassem Tofighi](https://ghassem.com) courses.
 
 ### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
 
