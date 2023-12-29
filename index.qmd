@@ -36,7 +36,6 @@ resources:
 </video>
 :::
 
-{{< include _course-chooser.qmd >}}
 
 :::
 
@@ -306,4 +305,6 @@ Publish collections of documents as a blog or full website. Create books and man
 
 :::
 :::
+
+{{< include _course-chooser.qmd >}}
 
