@@ -22,6 +22,7 @@ resources:
 # Welcome to Ghassem's Courses
 
 
+{{< include _course-chooser.qmd >}}
 
 
 ### Analyze. Share. Reproduce. You have a story to tell with data---tell it with Quarto.
@@ -50,7 +51,6 @@ resources:
 
 ::: {.hello-quarto-banner}
 
-{{< include _course-chooser.md >}}
 
 # Hello, Quarto 
 <ul class="nav nav-pills" id="hello-quarto-tab" role="tablist">
