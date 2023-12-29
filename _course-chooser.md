@@ -1,29 +1,28 @@
 ```{=html}
 <ul id="choose-your-tool" class="nav nav-tabs" role="tablist">
-  <h3 class="no-anchor">Choose a course</h3>
   <li class="nav-item" role="presentation">
     <a class="nav-link" href="docs/deep-learning/">
-      <img src="images/vscode-logo.png">Deep Learning
+      <img src="docs/get-started/images/vscode-logo.png">Deep Learning
     </a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" href="jupyter.html">
-      <img src="images/jupyter-logo.png">Human Computer Interaction
+      <img src="docs/get-started/images/jupyter-logo.png">Human Computer Interaction
     </a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" href="rstudio.html">
-      <img src="images/rstudio-logo.png">College Research
+      <img src="docs/get-started/images/rstudio-logo.png">College Research
     </a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" href="neovim.html">
-      <img src="images/neovim-logo.svg">Machine Learning
+      <img src="docs/get-started/images/neovim-logo.svg">Machine Learning
     </a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" href="text-editor.html">
-      <img src="images/text-editor-logo.png" id="text-editor-logo">Editor
+      <img src="docs/get-started/images/text-editor-logo.png" id="text-editor-logo">Editor
     </a>
   </li>
 </ul>
