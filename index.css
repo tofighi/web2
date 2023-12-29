@@ -287,6 +287,7 @@ nav.page-navigation {
 
 .course a[role="button"] {
     min-width: 150px;
+    width: 100px;
     color: rgb(55, 58, 60);
     text-align: center;
     border: 2px solid rgb(222, 226, 230);
