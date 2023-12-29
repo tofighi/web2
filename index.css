@@ -284,15 +284,16 @@ nav.page-navigation {
 }
 
 .course a[role="button"] {
-  width: 100px;
-  color: rgb(55, 58, 60);
-  text-align: center;
-  border: 1px solid rgb(222, 226, 230);
-  border-radius: 10px;
-  margin-right: 20px;
-  margin-bottom: 0;
-  margin-top: 10px;
-  font-size: 0.85em;
+    min-width: 200px;
+    width: 100px;
+    color: rgb(55, 58, 60);
+    text-align: center;
+    border: 3px solid rgb(222, 226, 230);
+    border-radius: 15px;
+    margin-right:  0px;
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-size: .75em;
 }
 
 .course .btn-outline-light:hover {
