@@ -5,6 +5,8 @@ project:
     - "/docs/download/_download.json"
     - "/docs/download/_prerelease.json"
     - "/_redirects"
+    - CNAME
+
 
 website:
   title: "Ghassem Tofighi"
