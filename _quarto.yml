@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Ghassem Tofighi"
-  image: "dark-back.png"
+  image: "images/dark-back.jpg"
   favicon: "favicon.png"
   google-analytics: "G-aaaaa"
   open-graph: true
