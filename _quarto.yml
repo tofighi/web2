@@ -13,7 +13,8 @@ website:
   google-analytics: "G-aaaaa"
   open-graph: true
   twitter-card: true
-  site-url: https://tofighi.github.io
+  site-path: "/web2/"
+  #site-url: https://tofighi.github.io/web2
   repo-url: https://github.com/tofighi/web2
   issue-url: https://github.com/tofighi/web2/issues/new/choose
   repo-actions: [edit]
