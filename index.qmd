@@ -8,7 +8,7 @@ editor: source
 description: | 
   Ghassem Tofighi's Courses
 hide-description: true
-image: dark-back.jpeg
+image: images/dark-back.jpg
 resources: 
   - images/hero_animation.mp4
 ---
