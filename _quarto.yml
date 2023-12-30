@@ -13,7 +13,7 @@ website:
   google-analytics: "G-aaaaa"
   open-graph: true
   twitter-card: true
-  #site-path: "/web2/"
+  site-path: "/web2/"
   site-url: https://courses.ghassem.com/
   repo-url: https://github.com/tofighi/web2
   issue-url: https://github.com/tofighi/web2/issues/new/choose
