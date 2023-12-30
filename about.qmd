@@ -1,5 +1,5 @@
 ---
-title: "About Quarto"
+title: "About Courses"
 subtitle: "Open source tools for scientific and technical publishing"
 ---
 
