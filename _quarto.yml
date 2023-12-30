@@ -43,10 +43,7 @@ website:
         aria-label: Twitter
       - icon: github
         href: https://github.com/tofighi/
-        aria-label: GitHub
-      - icon: rss
-        href: https://tofighi.github.io/web2/docs/blog/index.xml
-        aria-label: Blog RSS        
+        aria-label: GitHub       
   navbar:
     background: light
     logo: logo-gt.png
