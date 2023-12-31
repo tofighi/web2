@@ -1,5 +1,5 @@
 ---
-title: "Ghassem Tofighi's Courses"
+pagetitle: "Ghassem Tofighi's Courses"
 page-layout: custom
 section-divs: false
 toc: false
@@ -8,7 +8,7 @@ editor: source
 description: | 
   Ghassem Tofighi's Courses
 hide-description: true
-image: https://courses.ghassem.com/images/dark-back.jpg
+image: images/dark-back.jpg
 resources: 
   - images/hero_animation.mp4
 creator: "@tofighi"
