@@ -8,7 +8,7 @@ creator: "@jeremyphoward"
 :::{.callout-tip}
 ## New!
 
-We just launched a new >30 hour video course for more experienced students:
+We just launched a new > 30 hour video course for more experienced students:
 
 [Practical Deep Learning for Coders part 2: *Deep Learning Foundations to Stable Diffusion*](part2.qmd)
 :::
