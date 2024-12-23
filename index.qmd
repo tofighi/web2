@@ -14,35 +14,6 @@ resources:
 creator: "@tofighi"
 ---
 
-::: {.hero-banner}
-
-::: {.content-block}
-
-::: {.hero-text}
-
-<!--
-::: {.hero-buttons}
-[Get Started](docs/get-started/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
-[Guide](docs/guide/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
-::: 
--->
-
-:::
-
-<!--
-::: {.hero-animation}
-
-<video autoplay muted playsinline loop>
-<source src="images/hero_animation.mp4" type="video/mp4"/>
-</video>
-:::
--->
-
-:::
-
-
-:::
-
 
 ::: {.hello-quarto .alt-background}
 ::: {.content-block}
