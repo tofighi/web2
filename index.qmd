@@ -32,14 +32,15 @@ creator: "@tofighi"
 
 ::: {.feature}
 ### Machine Learning
-A course containing basic concepts of machine learning with examples
+Generate dynamic output using Python, R, Julia, and Observable. Create reproducible documents that can be regenerated when underlying assumptions or data change.
+
 ::: {.learn-more}
-[Learn more »](docs/machine-learning/index.qmd)
+[Learn more »](docs/computations/python.qmd)
 :::
 :::
 
 ::: {.feature}
-### Computer Science Basics
+### Beautiful Publications
 Publish high-quality articles, reports, presentations, websites, and books in HTML, PDF, MS Word, ePub, and more. Use a single source document to target multiple formats.
 
 ::: {.learn-more}
@@ -86,7 +87,8 @@ Publish collections of documents as a blog or full website. Create books and man
 :::
 :::
 
+
 ::: {.get-started .alt-background}
+::: {.content-block}
 :::
-
-
+:::
