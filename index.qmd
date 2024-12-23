@@ -19,9 +19,6 @@ creator: "@tofighi"
 ::: {.content-block}
 
 ::: {.hero-text}
-# Welcome to Ghassem's Courses
-
-{{< include _course-chooser.qmd >}}
 
 <!--
 ::: {.hero-buttons}
@@ -29,16 +26,17 @@ creator: "@tofighi"
 [Guide](docs/guide/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
 ::: 
 -->
+
 :::
 
-
+<!--
 ::: {.hero-animation}
 
 <video autoplay muted playsinline loop>
 <source src="images/hero_animation.mp4" type="video/mp4"/>
 </video>
 :::
-
+-->
 
 :::
 
