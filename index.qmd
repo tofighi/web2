@@ -32,7 +32,13 @@ creator: "@tofighi"
 
 ::: {.feature}
 ### Machine Learning
-Generate dynamic output using Python, R, Julia, and Observable. Create reproducible documents that can be regenerated when underlying assumptions or data change.
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <img src="images/logo.svg" alt="Machine Learning" style="width: 15%; max-width: 100px; height: auto; margin-right: 10px;">
+  <div style="flex: 1; min-width: 200px;">
+  A course about machine learning and its applications, exploring the foundational principles and modern techniques used in the field. Students will learn how to build and train models, analyze real-world data, and implement algorithms for tasks such as prediction, classification, and clustering. 
+  </div>
+</div>
+
 
 ::: {.learn-more}
 [Learn more »](docs/computations/python.qmd)
