@@ -32,11 +32,13 @@ creator: "@tofighi"
 
 ::: {.feature}
 ### Machine Learning
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="images/logo.svg" alt="Machine Learning" style="width: 15%; max-width: 100px; height: auto; margin-right: 10px;">
-  <div style="flex: 1; min-width: 200px;">
-  A course about machine learning and its applications, exploring the foundational principles and modern techniques used in the field. Students will learn how to build and train models, analyze real-world data, and implement algorithms for tasks such as prediction, classification, and clustering. 
-  </div>
+<div style="overflow: hidden;">
+  <img src="images/logo.svg" alt="Logo" style="width: 15%; max-width: 100px; height: auto; float: left; margin: 0 10px 10px 0;">
+  <p>
+    A course about machine learning and its applications, exploring the foundational principles and modern techniques used in the field. 
+    Students will learn how to build and train models, analyze real-world data, and implement algorithms for tasks such as prediction, classification, and clustering. 
+    This course also covers the ethical considerations and societal impact of deploying machine learning technologies.
+  </p>
 </div>
 
 
